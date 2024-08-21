@@ -2,7 +2,7 @@
 
 This repo is the home of `txt2onto`, a Python utility for classifying unstructured text to terms in a tissue ontology using NLP-ML – a combination of natural language processing (NLP) and machine learning (ML). Also in this repo are our fully trained NLP-ML models to perform the tissue classification on unstructured text. We have included sample inputs and outline the use of NLP-ML with a demo script.
 
-The NLP-ML method is described in this [preprint](https://doi.org/10.1101/2021.05.10.443525) `bioRxiv DOI: 10.1101/2021.05.10.443525`.
+The NLP-ML method is described in this [article published in _Nature Communications_ (2022)](https://doi.org/10.1038/s41467-022-34435-x). `DOI: 10.1038/s41467-022-34435-x`. Also, check out our newer method here: https://github.com/krishnanlab/txt2onto2.0
 
 
 ## More Info
@@ -165,9 +165,9 @@ This repository and all its contents are released under the [Creative Commons Li
 
 ### Citation
 If you use this work, please cite:  
-**Systematic tissue annotations of genomic samples by modeling unstructured metadata**  
-Nathaniel T. Hawkins, Marc Maldaver, Anna Yannakopoulos, Lindsay A. Guare, Arjun Krishnan  
-_bioRxiv_ 2021.05.10.443525; doi: https://doi.org/10.1101/2021.05.10.443525
+**Systematic tissue annotations of genomics samples by modeling unstructured metadata.**  
+Nathaniel T. Hawkins, Marc Maldaver, Anna Yannakopoulos, Lindsay A. Guare, Arjun Krishnan. 
+_Nat Commun._ 2022 Nov 8;13(1):6736. doi: 10.1038/s41467-022-34435-x. PMID: 36347858; PMCID: PMC9643451.
 
 ### Funding
 This work was primarily supported by US National Institutes of Health (NIH) grants R35 GM128765 to AK and in part by MSU start-up funds to AK and MSU Rasmussen Doctoral Recruitment Award and Engineering Distinguished Fellowship to NTH.
